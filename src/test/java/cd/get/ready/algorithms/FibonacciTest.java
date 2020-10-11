@@ -37,5 +37,4 @@ public class FibonacciTest {
         int expected = 1;
         Assert.assertEquals(expected, actual);
     }
-
 }
